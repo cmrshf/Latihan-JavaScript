@@ -1,5 +1,4 @@
-let lastName;
-lastName = "Cica";
+let lastName = "Cica";
 
 console.log(lastName);
 
